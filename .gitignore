@@ -1,0 +1,8 @@
+# ignore eveything
+/*
+
+# include .gitignore
+!.gitignore
+
+# plugins to include
+# !fe-example-plugin/
