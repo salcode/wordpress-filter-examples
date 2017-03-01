@@ -6,6 +6,6 @@
 
 # plugins to include
 # !fe-example-plugin/
-!fe-demo-admin-footer-text/
+!fe-demo-admin-footer-text.php
 !fe-demo-login-screen-msg/
 !fe-demo-phil-no.php
