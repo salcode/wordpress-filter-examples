@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Iron Code Demo admin_footer_text filter
- * Plugin URI: TBD
+ * Plugin URI: https://github.com/salcode/wordpress-filter-examples/tree/master/fe-demo-admin-footer-text
  * Description: A demo using the admin_footer_text filter to change the admin footer text.
  * Version: 0.1.0
  * Author: Sal Ferrarello
@@ -22,11 +22,9 @@ add_filter( 'admin_footer_text', 'fe_demo_admin_footer_text' );
 /**
  * This function returns branded markup for the footer in the admin
  *
- * @param string $text The current markup for the footer in the admin.
- * @return string THe updated (branded) markup for the footer in the admin.
+ * @param  string $text The current markup for the footer in the admin.
+ * @return string The updated (branded) markup for the footer in the admin.
  */
 function fe_demo_admin_footer_text( $text ) {
-	return '<span id="footer-thankyou">This site created by '
-		. '<a href="http://ironco.de/">Iron Code Studio</a> '
-		. 'with <a href="https://wordpress.org/">WordPress</a>.</span>';
+	return '<span id="footer-thankyou">This site created by <a href="http://ironco.de/">Iron Code Studio</a> with <a href="https://wordpress.org/">WordPress</a>.</span>';
 }
