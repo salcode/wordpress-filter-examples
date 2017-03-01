@@ -7,6 +7,7 @@
 # plugins to include
 # !fe-example-plugin/
 !fe-demo-admin-footer-text.php
+!fe-demo-close-comments-filter.php
 !fe-demo-content-disclaimer.php
 !fe-demo-login-screen-msg.php
 !fe-demo-phil-no.php
