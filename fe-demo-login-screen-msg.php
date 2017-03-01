@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Iron Code Demo Login Screen Message
- * Plugin URI: https://github.com/salcode/wordpress-filter-examples/tree/master/fe-demo-login-screen-msg
+ * Plugin URI: https://github.com/salcode/wordpress-filter-examples/tree/master/fe-demo-login-screen-msg.php
  * Description: A demo using the login_message filter to add a message on the login screen.
  * Version: 0.1.0
  * Author: Sal Ferrarello

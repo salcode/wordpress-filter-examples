@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Iron Code Demo Phil, prepend "No, "
- * Plugin URI: TBD
+ * Plugin URI: https://github.com/salcode/wordpress-filter-examples/tree/master/fe-demo-phil-no.php
  * Description: A demo using the the_title filter to change the title on all posts, this is based on Sal Ferrarello's talk "Making WordPress Filters Work for You".
  * Version: 0.1.0
  * Author: Sal Ferrarello

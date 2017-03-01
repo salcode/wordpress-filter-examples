@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Iron Code Demo admin_footer_text filter
- * Plugin URI: https://github.com/salcode/wordpress-filter-examples/tree/master/fe-demo-admin-footer-text
+ * Plugin URI: https://github.com/salcode/wordpress-filter-examples/tree/master/fe-demo-admin-footer-text.php
  * Description: A demo using the admin_footer_text filter to change the admin footer text.
  * Version: 0.1.0
  * Author: Sal Ferrarello
