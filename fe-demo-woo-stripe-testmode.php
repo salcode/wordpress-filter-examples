@@ -20,7 +20,7 @@ if ( ! defined( 'WPINC' ) ) {
 add_filter( 'option_woocommerce_stripe_settings', 'fe_woo_stripe_force_testmode' );
 
 /**
- * This function returns branded markup for the footer in the admin
+ * This function modifies the woocommerce_stripe_settings to be in testmode.
  *
  * @param  array $settings The WooCommerce settings from the database.
  * @return array The updated WooCommerce settings withh testmode set to "yes".
